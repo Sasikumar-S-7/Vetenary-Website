@@ -1,0 +1,44 @@
+.navbar
+		{
+			background-color: #daac00;
+		}
+		.total-dog
+		{
+		   background-color: #fbc302;
+		}
+		.Dog-container
+		{
+			background-color: #fbc302;
+		}
+		.dog-image
+		{
+
+			background: #fbc302;
+		}
+		.button
+		{
+			border-radius: 20px;
+			width: 130px;
+			height: 40px;
+
+			background-color:#00bec9;
+		}
+		i:hover
+		{
+		color: hotpink;
+		}
+		.button:hover
+		{
+			background-color:blue ;
+			transition: 0.4s;
+		}
+		.medi1
+		{
+			margin: 0px;
+			padding: 0px;
+		}
+		.medi
+		{
+			margin: 0px;
+			padding: 0px;
+		}
